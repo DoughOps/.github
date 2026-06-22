@@ -9,11 +9,11 @@
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 
-# T-Community GitHub Organization 介紹
+# DoughOps
 
-下班後還想繼續開發? 歡迎加入 t-community
+歡迎加入 DoughOps
 
-> GitHub Org：[https://github.com/orgs/t-community](https://github.com/orgs/t-community)
+> GitHub Org：[https://github.com/orgs/t-community](https://github.com/orgs/DoughOps)
 
 ---
 
