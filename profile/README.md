@@ -16,6 +16,13 @@
 > GitHub Org：[https://github.com/orgs/DoughOps](https://github.com/orgs/DoughOps)
 
 ---
+## 為什麼叫做 Dough？
+
+**Dough（麵團）** 象徵反覆打磨與持續改進，就像軟體開發一樣。
+
+好的麵團需要經過揉製、鬆弛、發酵，再不斷調整，才能變成最終的成果； 
+
+程式碼也是如此，透過設計、Review、Refactor 與持續改善，一步步變得更好。
 
 ## 為什麼建立這個 Org？
 
